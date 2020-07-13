@@ -1,4 +1,7 @@
-### Hi there 👋
+# RJ Hollberg
+
+Hate writing and maintaining the same boilerplate code for every project?  
+Me too.
 
 <!--
 **TaffarelJr/TaffarelJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
